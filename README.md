@@ -1,10 +1,10 @@
 # MLCourseRep
 Python Replication For Matlab Based ML Course
 
-Summary:
+**Summary:
 	There are two groups of code. The ones starting with ‘EX’ are the exercises of the Machine Learning course on Coursera. The ones ending with ‘wTools’ are replications of the main algorithms using libraries.
 
-‘EX1-GDForLinearReg’ : Gradient Descent with Linear Regression
+## [**1.‘EX1-GDForLinearReg’ : Gradient Descent with Linear Regression**] 
 1. Data importation
 	LoadDataSet
 2. Plot scatterplot and regression line for univariate model
